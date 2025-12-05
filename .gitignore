@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Data files (keep structure, ignore data)
+data/*.csv
+data/*.xlsx
+!data/.gitkeep
+
+# Screenshots
+screenshots/*.png
+screenshots/*.jpg
+!screenshots/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

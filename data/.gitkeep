@@ -1,0 +1,6 @@
+# Data files directory
+# Add your CSV files here
+
+# Example format for certificates.csv:
+# inscricao_federal,nome,caminho_raiz,caminho_arquivo,senha
+# 12.345.678/0001-90,Company Name,C:\Certificates,certificate.pfx,password123
