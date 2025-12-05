@@ -19,10 +19,6 @@
 - ✅ **Secure Configuration** - Environment-based credentials (no hardcoded passwords)
 - ✅ **Detailed Logging** - Complete audit trail of all operations
 
-## 📸 Screenshots
-
-*[Add screenshots of the tool in action]*
-
 ## 🚀 Quick Start
 
 ### Prerequisites
